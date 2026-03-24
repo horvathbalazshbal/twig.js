@@ -2,7 +2,7 @@
   "author": "John Roepke <john@justjohn.us> (http://john.sh/)",
   "name": "twig",
   "description": "JS port of the Twig templating language.",
-  "version": "2.0.0",
+  "version": "2.0.1",
   "homepage": "https://github.com/twigjs/twig.js",
   "license": "BSD-2-Clause",
   "licenses": [
@@ -17,7 +17,7 @@
   },
   "main": "src/twig.js",
   "engines": {
-    "node": ">=20"
+    "node": ">=22"
   },
   "bin": {
     "twigjs": "./bin/twigjs"
